@@ -1,0 +1,17 @@
+[
+    {
+        "book_id": 1,
+        "title": "Python",
+        "author": "Avazbek",
+        "year": 2002,
+        "status": "mavjud"
+    },
+    {
+        "book_id": 2,
+        "title": "avazbek",
+        "author": "Avazbek",
+        "year": 2023,
+        "status": "\u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d"
+    }
+]
+
